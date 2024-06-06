@@ -15,7 +15,7 @@
     "clear": "docusaurus clear"
   },
   "engines": {
-    "node": "20.10.0"
+    "node": "20"
   },
   "dependencies": {
     "@docsearch/js": "3.5.2",
