@@ -73,7 +73,7 @@
     "@types/react-router-dom": "^5.3.3",
     "docusaurus-plugin-sass": "^0.2.5",
     "docusaurus-plugin-typedoc": "^0.22.0",
-    "docusaurus-tailwindcss-loader": "file:plugins/docusaurus-tailwindcss-loader",
+    "docusaurus-tailwindcss-loader": "file:../plugins/docusaurus-tailwindcss-loader",
     "esbuild-loader": "^4.0.3",
     "fontaine": "^0.4.1",
     "openai": "^4.26.0",
