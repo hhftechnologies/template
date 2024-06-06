@@ -1,6 +1,10 @@
-Source code in this repository is variously licensed under the Business Source
-License 1.1 (BSL), Apache version 2.0 and the MIT license. A copy of each
-license can be found in each one of the packages under the folder packages
-under a file called License. Source code in a given file is licensed under the
-BSL and the copyright belongs to Firecms Authors unless otherwise noted at the
-beginning of the file.
+Copyright: FireCMS
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, I will not be liable for any damages related
+to this software or this license, for any kind of legal claim.**
+
+You are **not** allowed to copy, modify or distribute any code
+located in this sub repository, for commercial or non commercial
+use.
+
